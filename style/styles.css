@@ -80,6 +80,10 @@ body {
   padding: 10px;
 }
 
+.content-button a:hover {
+  background-color: cadetblue;
+}
+
 .content-tentang-saya-image {
   display: flex;
   justify-content: center;
